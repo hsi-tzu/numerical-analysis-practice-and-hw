@@ -1,2 +1,2 @@
-# numerical analysis procect and hw
+# numerical analysis practice and hw
  
